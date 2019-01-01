@@ -1,5 +1,5 @@
 # rtl8821cu
-Wifi driver for rtl8811cu/rtl8821cu with monitor mode
+Wifi driver for rtl8811cu/rtl8821cu with monitor mode (v5.2.15)
 
 ### DKMS
 Automatically install a kernel module when a new kernel gets installed
